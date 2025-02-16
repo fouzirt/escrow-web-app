@@ -8,7 +8,7 @@ TP fait par Rabie Toaba.
 
 ```bash
 git clone https://github.com/fouzirt/escrow-web-app.git
-cd escrow-fob
+cd escrow-web-app
 ```
 
 ### 2️⃣ **Installer les dépendances**
